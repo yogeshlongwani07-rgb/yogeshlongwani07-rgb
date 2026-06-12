@@ -103,7 +103,7 @@ const yogesh = {
 - 🗃️ Normalized MongoDB schemas for users, listings & reviews — proper population, validation & error handling
 - 🛡️ Role-based authorization: owners can only edit/delete their own listings
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=heroku&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 </td>
