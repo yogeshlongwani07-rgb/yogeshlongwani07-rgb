@@ -161,17 +161,6 @@ const yogesh = {
 [![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/longwani07)
 [![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yogeshlongwani07@gmail.com)
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-
-<!-- Profile view counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogeshlongwani07&label=Profile+Views&color=6E57F7&style=flat-square" alt="Profile Views"/>
-</div>
-arted:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
