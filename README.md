@@ -85,8 +85,8 @@ const yogesh = {
 - ☁️ Frontend on **Vercel**, backend on **AWS EC2** — production-grade pipeline
 - ⚡ Optimized with `useMemo` & `useCallback`; reusable card, filter & pagination components
 - 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](https://wonder-list-nine.vercel.app/listings)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yogeshlongwani07-rgb/WonderList)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](https://restro-data-xkg3.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yogeshlongwani07-rgb/Restro-Data)
 
 </td>
 
@@ -103,8 +103,8 @@ const yogesh = {
 - 🗃️ Normalized MongoDB schemas for users, listings & reviews — proper population, validation & error handling
 - 🛡️ Role-based authorization: owners can only edit/delete their own listings
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](https://wonder-list-nine.vercel.app/listings)
+  [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yogeshlongwani07-rgb/WonderList)
 
 </td>
 
