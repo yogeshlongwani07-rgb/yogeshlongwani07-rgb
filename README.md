@@ -1,25 +1,16 @@
-## Hi there 👋
-
-<!--
-**yogeshlongwani07-rgb/yogeshlongwani07-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you st<div align="center">
-
-<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Longwani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20·%20MERN%20Stack%20·%20Building%20things%20that%20scale&descAlignY=55&descSize=16"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;AWS+%7C+REST+APIs+%7C+JWT+Auth;50%2B+agents+use+what+I+ship+daily+%F0%9F%9A%80;Turning+ideas+into+production+software" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/longwani07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yogesh-longwani
+
+)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yogeshlongwani07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshlongwani07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshlongwani07-rgb)
 
 <br/>
 
@@ -31,44 +22,23 @@ Here are some ideas to get you st<div align="center">
 
 ```javascript
 const yogesh = {
-  role      : "Full-Stack Developer (MERN)",
-  location  : "Gurgaon, India 🇮🇳",
-  education : "MCA @ Manipal University (2025–2027)",
-  currently : "Building production tools @ Eternal",
-  
+  role: "Full-Stack Developer (MERN)",
+  location: "Gurgaon, India 🇮🇳",
+  education: "MCA @ Manipal University (2025–2027)",
+  currently: "Building production tools @ Eternal",
+
   stack: {
-    frontend : ["React.js", "JavaScript ES6+", "Context API", "Bootstrap"],
-    backend  : ["Node.js", "Express.js", "REST APIs", "Passport.js"],
-    database : ["MongoDB", "Mongoose ODM", "MongoDB Atlas"],
-    auth     : ["JWT", "bcrypt", "Session-based Auth", "RBAC"],
-    devops   : ["AWS EC2", "Vercel", "Render", "Git", "Postman"],
+    frontend: ["React.js", "JavaScript ES6+", "Context API", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "REST APIs", "Passport.js"],
+    database: ["MongoDB", "Mongoose ODM", "MongoDB Atlas"],
+    auth: ["JWT", "bcrypt", "Session-based Auth", "RBAC"],
+    devops: ["AWS EC2", "Vercel", "Render", "Git", "Postman"],
   },
 
-  funFact   : "50+ support agents rely on code I wrote — daily 🎯",
-  openTo    : ["Full-Stack Roles", "Frontend Roles", "Backend Roles"],
+  funFact: "50+ support agents rely on code I wrote — daily 🎯",
+  openTo: ["Full-Stack Roles", "Frontend Roles", "Backend Roles"],
 };
 ```
-
----
-
-## 🏢 &nbsp;Production Experience
-
-<table>
-<tr>
-<td width="50px" align="center">🚀</td>
-<td>
-
-**Full Stack Developer — Eternal** &nbsp;`Feb 2025 – Present` &nbsp;· &nbsp;Gurgaon, India
-
-- Engineered a **React-based CRM plugin** used daily by **50+ support agents** — cut ticket resolution time meaningfully
-- Shipped **8+ REST API endpoints** handling live production data at **sub-200ms response times**
-- Implemented **JWT authentication + RBAC** for internal dashboards
-- Delivered features in **2-week Agile sprints** with daily stand-ups and code reviews
-- Stack: `React` `Node.js` `Express.js` `MongoDB` `AWS EC2`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -77,6 +47,7 @@ const yogesh = {
 <div align="center">
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,17 +55,20 @@ const yogesh = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### Auth & Security
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
 ![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### DevOps & Tools
+
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,7 +88,8 @@ const yogesh = {
 <td width="50%" valign="top">
 
 ### 🍽️ Restaurant Finder Web App
-> *Location-based discovery — built end to end*
+
+> _Location-based discovery — built end to end_
 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `AWS EC2` `Google Geocoding API`
 
@@ -123,15 +98,16 @@ const yogesh = {
 - ☁️ Frontend on **Vercel**, backend on **AWS EC2** — production-grade pipeline
 - ⚡ Optimized with `useMemo` & `useCallback`; reusable card, filter & pagination components
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://restro-data-xkg3.vercel.app/)](#)
+[![GitHub](https://github.com/yogeshlongwani07-rgb/Restro-Data)](#)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🏠 WonderList — Property Listing Platform
-> *Airbnb-style CRUD platform, fully authenticated*
+
+> _Airbnb-style CRUD platform, fully authenticated_
 
 **Stack:** `Node.js` `Express` `MongoDB` `Passport.js` `EJS`
 
@@ -140,8 +116,8 @@ const yogesh = {
 - 🗃️ Normalized MongoDB schemas for users, listings & reviews — proper population, validation & error handling
 - 🛡️ Role-based authorization: owners can only edit/delete their own listings
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=heroku&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://wonder-list-nine.vercel.app/listings)](#)
+[![GitHub](https://github.com/yogeshlongwani07-rgb/WonderList)](#)
 
 </td>
 
@@ -151,33 +127,14 @@ const yogesh = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshlongwani07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshlongwani07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshlongwani07&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshlongwani07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 ## 🎓 &nbsp;Education & Certifications
 
-| 🎓 Qualification | 🏫 Institution | 📅 Year |
-|---|---|---|
-| MCA *(Ongoing)* — ML, DSA, Cloud, Web | Manipal University, Jaipur | 2025–2027 |
-| Advanced React Development | Meta / Coursera | 2026 |
-| Programming with JavaScript | Meta / Coursera | 2026 |
-| Full-Stack Web Development | Apna College | 2025 |
+| 🎓 Qualification                      | 🏫 Institution             | 📅 Year   |
+| ------------------------------------- | -------------------------- | --------- |
+| MCA _(Ongoing)_ — ML, DSA, Cloud, Web | Manipal University, Jaipur | 2025–2027 |
+| Advanced React Development            | Meta / Coursera            | 2026      |
+| Programming with JavaScript           | Meta / Coursera            | 2026      |
+| Full-Stack Web Development            | Apna College               | 2025      |
 
 ---
 
@@ -210,8 +167,8 @@ const yogesh = {
 
 <div align="center">
 
-> *I'm actively looking for **Full-Stack / Frontend / Backend** roles where I can ship fast and grow faster.*
-> 
+> _I'm actively looking for **Full-Stack / Frontend / Backend** roles where I can ship fast and grow faster._
+>
 > Got an interesting problem to solve? Let's talk. 👇
 
 [![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/longwani07)
@@ -237,4 +194,4 @@ arted:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
