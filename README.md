@@ -12,10 +12,9 @@
 
 ```javascript
 const yogesh = {
-  role: "Full-Stack Developer (MERN)",
+  role: "Full-Stack Developer",
   location: "Gurgaon, India 🇮🇳",
   education: "MCA @ Manipal University (2025–2027)",
-  currently: "Building production tools @ Eternal",
 
   stack: {
     frontend: ["React.js", "JavaScript ES6+", "Context API", "Bootstrap"],
@@ -29,8 +28,6 @@ const yogesh = {
   openTo: ["Full-Stack Roles", "Frontend Roles", "Backend Roles"],
 };
 ```
-
----
 
 ## 🛠️ &nbsp;Tech Stack
 
