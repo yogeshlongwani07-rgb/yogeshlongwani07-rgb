@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Longwani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20·%20MERN%20Stack%20·%20Building%20things%20that%20scale&descAlignY=55&descSize=16"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Longwani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20·%20MERN%20Stack%20·%20Building%20things%20that%20scale&descAlignY=55&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;AWS+%7C+REST+APIs+%7C+JWT+Auth;50%2B+agents+use+what+I+ship+daily+%F0%9F%9A%80;Turning+ideas+into+production+software" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 <br/>
 
----
+--- -->
 
 ## 👨‍💻 &nbsp;Who Am I?
 
