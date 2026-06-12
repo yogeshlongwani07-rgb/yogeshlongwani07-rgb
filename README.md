@@ -6,14 +6,6 @@
 
 <br/>
 
-[![LinkedIn](www.linkedin.com/in/yogesh-longwani)]
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yogeshlongwani07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshlongwani07-rgb)
-
-<br/>
-
-</div>
-
 ---
 
 ## 👨‍💻 &nbsp;Who Am I?
