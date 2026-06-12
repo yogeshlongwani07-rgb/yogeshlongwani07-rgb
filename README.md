@@ -85,7 +85,9 @@ const yogesh = {
 - ☁️ Frontend on **Vercel**, backend on **AWS EC2** — production-grade pipeline
 - ⚡ Optimized with `useMemo` & `useCallback`; reusable card, filter & pagination components
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6E57F7?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Live Demo](www.linkedin.com/in/yogesh-longwani
+
+?style=flat-square&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 </td>
