@@ -23,8 +23,6 @@ const yogesh = {
     auth: ["JWT", "bcrypt", "Session-based Auth", "RBAC"],
     devops: ["AWS EC2", "Vercel", "Render", "Git", "Postman"],
   },
-
-  funFact: "50+ support agents rely on code I wrote — daily 🎯",
   openTo: ["Full-Stack Roles", "Frontend Roles", "Backend Roles"],
 };
 ```
